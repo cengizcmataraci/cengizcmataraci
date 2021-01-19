@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cengizcmataraci" alt="cengizcmataraci" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails, Vue.js, Javascript etc.**
+- 🌱 I’m currently learning **React.js, Vue.js, Javascript etc.**
 
 - 📝 I regularly write articles on [https://cengizcmataraci.me](https://cengizcmataraci.me)
 

@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Rails, Vue and Linux.**
 
-- 📫 How to reach me **cengizcmataraci@kablosuzbeyin.com**
+- 📫 How to reach me **cengizcmataraci@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

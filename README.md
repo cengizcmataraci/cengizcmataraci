@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com) 
 
-- 📝 My personal blog [https://cengizcmataraci.me](https://cengizcmataraci.me)
+- 📝 My personal page [https://cengizcmataraci.me](https://cengizcmataraci.me)
 
 - 💬 Ask me about **Rails, Vue and Linux.**
 

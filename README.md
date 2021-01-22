@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **React.js, Vue.js, Javascript etc.**
 
-- 📝 I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com) and my personal blog [https://cengizcmataraci.me](https://cengizcmataraci.me)
+- 📝 I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com) 
+
+- 📝 My personal blog [https://cengizcmataraci.me](https://cengizcmataraci.me)
 
 - 💬 Ask me about **Rails, Vue and Linux.**
 

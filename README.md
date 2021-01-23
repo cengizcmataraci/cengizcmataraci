@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cengizcmataraci" alt="cengizcmataraci" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Vue.js, Javascript etc.**
+- 🌱 I’m currently learning **React.js, .NET Core, Javascript etc.**
 
 - 📝 I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com) 
 
 - 📝 My personal page [https://cengizcmataraci.me](https://cengizcmataraci.me)
 
-- 💬 Ask me about **Rails, Vue and Linux.**
+- 💬 Ask me about **Rails, Vue.js and Linux.**
 
 - 📫 How to reach me **cengizcmataraci@gmail.com**
 

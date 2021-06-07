@@ -9,7 +9,7 @@
 
 - 📝 My personal page [https://cengizcmataraci.me](https://cengizcmataraci.me)
 
-- 💬 Ask me about **Rails, Vue.js and Linux.**
+- 💬 Ask me about **Javascript, CSS and Linux.**
 
 - 📫 How to reach me **cengizcmataraci@gmail.com**
 

@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com) 
 
-- 📝 My personal page [https://cengizcmataraci.me](https://cengizcmataraci.me)
+- 📝 My personal page [https://cengiz.rocks](https://cengiz.rocks)
 
 - 💬 Ask me about **Javascript, CSS and Linux.**
 

@@ -1,19 +1,16 @@
-<h2 align="center">Hello there! 🚀 I'm Cengiz</h1>
-<div align="center"><img src="https://media4.giphy.com/media/C5hL7OSWyACFW/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&rid=giphy.gif&ct=g" width="280" height="230"  /> </div>
+<h2 align="center">Hello there! 🚀 I'm Cengiz</h2>
+<img align="right" src="https://media4.giphy.com/media/C5hL7OSWyACFW/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&rid=giphy.gif&ct=g" width="280" height="230"  />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cengizcmataraci&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="cengizcmataraci" /></a> </p>
-<p>
-  
-- 🌱 I’m currently working with **React.js and anything related with JavaScript.**
 
-- 📝 I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com) 
+- 👾  I’m currently working with **React.js and anything related with JavaScript.**
 
-- 🚀 My personal page [https://cengiz.rocks](https://cengiz.rocks)
+- 📝  I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com) 
 
-- 💬 Ask me about **JavaScript, CSS and React.js.**
+- 🚀  My personal page [https://cengiz.rocks](https://cengiz.rocks)
 
-- 📫 How to reach me **cengizcmataraci@gmail.com**
- </p>
+- 💬  Ask me about **JavaScript, CSS and React.js.**
+
+- 📫  How to reach me **cengizcmataraci@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +20,8 @@
 <a href="https://medium.com/@cengizcmataraci" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cengizcmataraci" height="30" width="40" /></a>
 <a href="https://discord.gg/3kGnYm6" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="3kGnYm6" height="30" width="26" /></a>
 </p>
+
+<img align="right" src="https://c.tenor.com/4gPD1ccxrVgAAAAC/rick-ashley-dance.gif" width="280" height="230"  />
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
@@ -56,7 +55,3 @@
 <a href="https://trello.com/en" target="_blank" rel=”noopener”> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cengizcmataraci&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cengizcmataraci&show_icons=true&theme=dark&locale=en" alt="cengizcmataraci" width="50%" /></p>

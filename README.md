@@ -6,8 +6,6 @@
 
 - 📝  I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com) 
 
-- 🚀  My personal page [https://cengiz.rocks](https://cengiz.rocks)
-
 - 💬  Ask me about **JavaScript, CSS and React.js.**
 
 - 📫  How to reach me **cengizcmataraci@gmail.com**

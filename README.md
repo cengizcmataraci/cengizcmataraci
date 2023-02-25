@@ -1,8 +1,10 @@
 <h2 align="center">Hello there! 🚀 I'm Cengiz</h2>
+
+
 <img align="right" src="https://media4.giphy.com/media/C5hL7OSWyACFW/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&rid=giphy.gif&ct=g" width="280" height="230"  />
 
 
-- 👾  I’m currently working with **React.js and anything related with JavaScript.**
+- 👾  I’m currently working with **React.js and anything related with JavaScript.** Ne yabay mi?
 
 - 📝  I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com) 
 
